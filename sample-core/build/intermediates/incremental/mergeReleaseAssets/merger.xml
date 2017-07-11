@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/sanniadewale/Documents/911VideoEmergency/sample-core/src/main/assets"><file name="qb_config.json" path="/Users/sanniadewale/Documents/911VideoEmergency/sample-core/src/main/assets/qb_config.json"/></source><source path="/Users/sanniadewale/Documents/911VideoEmergency/sample-core/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/sanniadewale/Documents/911VideoEmergency/sample-core/src/release/assets"/></dataSet></merger>
